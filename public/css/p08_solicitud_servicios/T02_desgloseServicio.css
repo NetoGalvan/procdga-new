@@ -1,0 +1,14 @@
+.contenido_modal_definir_entregables {
+    color: #17a2b8;
+}
+#tituloAgregarPartida {
+    color: #17a2b8;
+}
+
+#tituloNuevaPartida {
+    color: #007bff;
+}
+.modal-footer {
+    display: flex;
+  justify-content: center;
+}

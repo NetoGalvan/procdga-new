@@ -1,0 +1,71 @@
+{
+    "datos_asistencia": [
+      {
+        "mes": "Enero",
+        "retardo_leve": 3,
+        "retardo_grave": 0,
+        "falta": 0,
+        "NB_RL": 0,
+        "NB_RG": 0,
+        "lic_sin_sueldo": 0,
+        "cuidado_materno": 0,
+        "lic_medica": 5
+      },
+      {
+        "mes": "Febrero",
+        "retardo_leve": 3,
+        "retardo_grave": 0,
+        "falta": 0,
+        "NB_RL": 0,
+        "NB_RG": 1,
+        "lic_sin_sueldo": 0,
+        "cuidado_materno": 0,
+        "lic_medica": 2
+      },
+      {
+        "mes": "Marzo",
+        "retardo_leve": 3,
+        "retardo_grave": 0,
+        "falta": 0,
+        "NB_RL": 0,
+        "NB_RG": 0,
+        "lic_sin_sueldo": 0,
+        "cuidado_materno": 7,
+        "lic_medica": 0
+      },
+      {
+        "mes": "Abril",
+        "retardo_leve": 2,
+        "retardo_grave": 0,
+        "falta": 0,
+        "NB_RL": 1,
+        "NB_RG": 0,
+        "lic_sin_sueldo": 0,
+        "cuidado_materno": 0,
+        "lic_medica": 1
+      },
+      {
+        "mes": "Mayo",
+        "retardo_leve": 1,
+        "retardo_grave": 0,
+        "falta": 0,
+        "NB_RL": 1,
+        "NB_RG": 0,
+        "lic_sin_sueldo": 0,
+        "cuidado_materno": 0,
+        "lic_medica": 0
+      },
+      {
+        "mes": "Junio",
+        "retardo_leve": 3,
+        "retardo_grave": 0,
+        "falta": 0,
+        "NB_RL": 1,
+        "NB_RG": 0,
+        "lic_sin_sueldo": 0,
+        "cuidado_materno": 1,
+        "lic_medica": 0
+      }
+    ]
+  }
+  

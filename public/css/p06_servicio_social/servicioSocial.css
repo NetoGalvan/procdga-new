@@ -1,0 +1,51 @@
+.titulo-nota {
+    font-size: 22px;
+    letter-spacing: 0.5px;
+	color:  rgb(233, 30, 99);
+}
+
+small {
+    font-size: smaller;
+}
+
+.highlight {
+    background-color: yellow
+}
+
+/* Sombra en el modal de editar Insticucion */
+.sidebar-modal-oscurecer {
+
+    z-index: 1030;
+    /* display: none; */
+}
+
+
+.fa-plus {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 33px !important;
+    background-image: url("../../images/outline_add_black_18dp.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 30px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    display:inline-block;
+    /* Resize the background image to cover the entire container */
+}
+.fa-minus {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 33px !important;
+    background-image: url("../../images/outline_remove_black_18dp.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 30px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    display:inline-block;
+    color:red;
+    /* Resize the background image to cover the entire container */
+}

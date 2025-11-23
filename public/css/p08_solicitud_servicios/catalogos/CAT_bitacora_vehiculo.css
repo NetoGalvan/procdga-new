@@ -1,0 +1,10 @@
+/* Centra los botones del modal */
+.modal-footer {
+    display: flex;
+    justify-content: center;
+}
+/* Acomoda los datos de los parrafos de la tabla*/
+p {
+    margin: 0;
+    padding: 0;
+}
